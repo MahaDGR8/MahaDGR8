@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MahaDGR8
-- 👀 I’m interested in AI and Data
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Beginer Projects on MySQL, Microsoft Excell and Google Sheets
+- 👀 I’m interested in AI, Data and Info/Cyber Security 
+- 🌱 I’m currently learning Data Analytics and on a Journey to Secure ISC2/CISSP
+- 💞️ I’m looking to collaborate on Beginer Projects on MySQL, Microsoft Excell and Google Sheets and insights on preparations for ISCT CAT Cert.
 - 📫 You can reach me on mahaemaha@gmail.com
 
 <!---
